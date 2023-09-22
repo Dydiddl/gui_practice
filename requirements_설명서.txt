@@ -1,0 +1,2 @@
+# pip3 freeze > requirements.txt <- 뭔가 설치하게 되면 사용 할 것, 패키지 목록표 만들기
+# pip3 install -4 requirements.txt <- 패키지 들을 설치 할 때
